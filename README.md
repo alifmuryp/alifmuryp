@@ -7,6 +7,10 @@ Alief Prihantoro
 <h2 align="center">Front End Developer</h2>
 Hi, I'm Alief Prihantoro, in social media call me MuryP. I'm a "Front end Developer" but I know little about "back end" and "devops". On internet I use social media and blog for my documentations. And I like learn coding from anywhere, especially on Youtube. 
 <br/>
+<div align="center">
+
+[![](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=download&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://linkedin.com/in/alifmuryp)
+</div>
 
 ## 🤙 Contact Me
 ![](https://img.shields.io/badge/+62_8382_9383_123-Call_Me!-informational?style=flat&logo=whatsapp&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)
