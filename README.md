@@ -8,6 +8,7 @@ Alief Prihantoro
 Hi, I'm Alief Prihantoro, in social media call me MuryP. I'm a "Front end Developer" but I know little about "back end" and "devops". On internet I use social media and blog for my documentations. And I like learn coding from anywhere, especially on Youtube. 
 <br/>
 <div align="center">
+
 [![](https://img.shields.io/badge/CV-Download-informational?style=flat&logo=download&logoColor=white&color=rgb(0,0,139,.5)&labelColor=00008b)](https://github.com/alifmuryp/alifmuryp/blob/master/Alief_Prihantoro_CV_-_Upto_Date_10_Mei_2021.pdf)
 </div>
 
